@@ -1,6 +1,6 @@
 # GridDriver
 
-###What's this?
+### What's this?
 
 * Autonomously explore + traverse an unknown area, avoiding obstacles
 * Plan and follow fastest path from Starting Point to End Point
